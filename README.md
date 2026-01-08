@@ -1,5 +1,7 @@
 # MCP System Summary Instructions
 
+[![smithery badge](https://smithery.ai/badge/AliceTears/mcp-system-summary)](https://smithery.ai/server/AliceTears/mcp-system-summary)
+
 An MCP (Model Context Protocol) server that provides structured instructions to Cursor on how to generate comprehensive system summaries for Node.js/TypeScript codebases.
 
 **Purpose**: This MCP does NOT generate summaries directly. Instead, it provides detailed JSON instructions that guide Cursor through the process of:
